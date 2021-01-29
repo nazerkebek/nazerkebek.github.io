@@ -1,0 +1,84 @@
+body {
+  background-color: lightgrey;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 17px;
+  margin: 0;
+  padding: 0;
+}
+
+.images{
+float: left;
+
+}
+.page-header{
+  font-style: italic;
+  font-size: 28px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 35px;
+  border-bottem: 1.5px solid;
+}
+.heading-parent{
+  font-family: monospace;
+  font-size: 20px;
+  width: 1170px;
+  height: 300px;
+  border: 1px;
+  margin-left: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.text{
+  text-align: center;
+  border-style: dotted;
+  border-width: 3px;
+  background: white;
+}
+.aboutme {
+  border-style:hidden;
+  background: #CCFFFF;
+  font-size: 20px;
+}
+.education{
+  border-style: solid;
+  align-items: center;
+  background: #CCFFFF;
+  display: inline-block;
+  width: 250px;
+}
+.languages{
+  border-style: solid;
+  background-color:#CCFFFF;
+  display: inline-block;
+  width: 150px;
+}
+.hobby{
+border: solid;
+background-color: #CCFFFF;
+display: inline-block;
+width: 250px;
+}
+.skill{
+  border: solid;
+  background-color: #CCFFFF;
+  display: inline-block;
+  width: 250px;
+}
+.meals{
+  border: solid;
+  background-color: #CCFFFF;
+  display: inline-block;
+  width: 250px;
+}
+.books {
+  border: solid;
+  background-color: #CCFFFF;
+  display: inline-block;
+  width: 250px;
+}
+.contacts{
+  font-size: 25px;
+  text-align: center;
+  border-style: hidden;
+  background: white;
+}
